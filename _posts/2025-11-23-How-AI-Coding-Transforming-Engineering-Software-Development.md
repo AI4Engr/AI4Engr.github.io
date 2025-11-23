@@ -189,6 +189,7 @@ On the other hand, the outlook for existing companies is less optimistic. No one
 * **It accelerates engineering software development dramatically.**
 * **Companies that adopt it will outpace those that don’t.**
 * **Individuals who resist it will fall behind those who embrace it.**
+
 ---
 
 **We don’t get to choose whether AI arrives.**
